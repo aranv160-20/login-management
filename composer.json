@@ -1,11 +1,11 @@
 {
-    "name": "programmer-zaman-now/php-login-management",
+    "name": "programmer-zaman-now/login-management",
     "description": "PHP Login Management",
     "type": "project",
     "authors": [
         {
-            "name": "Eko Kurniawan Khannedy",
-            "email": "echo.khannedy@gmail.com"
+            "name": "Amelia Rahayu",
+            "email": "ameliaarahayu138@gmail.com"
         }
     ],
     "require": {
